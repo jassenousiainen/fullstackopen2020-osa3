@@ -19,10 +19,14 @@
   },
   "homepage": "https://github.com/jassenousiainen/fullstackopen2020-osa3#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": "14.8.0"
   }
 }
